@@ -1,0 +1,22 @@
+{
+  "name": "jige",
+  "version": "0.0.1",
+  "description": "A simple tools set ~",
+  "main": "jige.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielzxz/jige.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "jige",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielzxz/jige/issues"
+  },
+  "homepage": "https://github.com/danielzxz/jige#readme"
+}
