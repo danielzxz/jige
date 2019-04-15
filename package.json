@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/danielzxz/jige/issues"
   },
-  "homepage": "https://github.com/danielzxz/jige#readme"
+  "homepage": "https://github.com/danielzxz/jige#readme",
+  "jshintConfig": {
+    "node": true,
+    "esversion": 6,
+    "boss": true,
+    "shadow": true,
+    "expr": true
+  }
 }

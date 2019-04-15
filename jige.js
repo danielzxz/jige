@@ -21,7 +21,7 @@ exports.randomArray = function(arrayLength, range, isRepeat) {
 		arrayLength = 10;
 	if (!range || typeof(range) != 'object')
 		range = [0, 9];
-	if (isRepeat == undefined || typeof(isRepeat) != 'boolean')
+	if (isRepeat === undefined || typeof(isRepeat) != 'boolean')
 		isRepeat = true;
 	if (range[1] - range[0] + 1 < arrayLength)
 		isRepeat = true;
